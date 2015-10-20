@@ -1,0 +1,34 @@
+[21-Feb-2013 07:54:28] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[25-Feb-2013 10:03:28] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[17-May-2013 04:26:44] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[23-Jul-2013 15:02:14] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[30-Oct-2013 22:22:29] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[31-Oct-2013 10:20:21] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[10-Dec-2013 14:08:54] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[21-Mar-2014 21:27:39] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[21-Mar-2014 21:27:41] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[04-Jul-2014 12:22:35] PHP Fatal error:  Call to undefined function  is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[05-Nov-2014 01:20:02 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[08-Nov-2014 07:19:19 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[30-Dec-2014 20:09:50 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[26-Feb-2015 04:12:42 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[28-Feb-2015 15:48:02 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[10-Mar-2015 04:50:19 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[27-Apr-2015 13:01:36 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[02-Jun-2015 09:07:07 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[27-Aug-2015 19:17:41 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[27-Aug-2015 19:17:54 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[29-Aug-2015 06:47:19 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar.php on line 3
+[29-Aug-2015 18:13:47 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[29-Aug-2015 18:13:55 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar.php on line 3
+[30-Aug-2015 21:38:32 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar_backup.php on line 3
+[08-Sep-2015 23:39:32 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar_backup.php on line 3
+[09-Sep-2015 21:46:13 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar_backup.php on line 3
+[09-Sep-2015 22:28:00 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[12-Sep-2015 11:58:03 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar_backup.php on line 3
+[14-Sep-2015 14:31:43 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[14-Sep-2015 14:31:47 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar.php on line 3
+[14-Sep-2015 14:33:25 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar_backup.php on line 3
+[30-Sep-2015 02:22:54 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/config.php on line 5
+[30-Sep-2015 02:22:58 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar.php on line 3
+[30-Sep-2015 02:24:52 America/Chicago] PHP Fatal error:  Call to undefined function is_page() in /home/cpam1410/public_html/wp-content/themes/cpam1410/sidebar_backup.php on line 3

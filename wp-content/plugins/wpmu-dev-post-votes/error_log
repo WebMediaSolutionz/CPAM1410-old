@@ -1,0 +1,2 @@
+[12-Mar-2013 21:54:57] PHP Fatal error:  Call to undefined function  add_action() in /home/cpam1410/public_html/wp-content/plugins/wpmu-dev-post-votes/wpmu-dev-post-votes.php on line 31
+[13-Mar-2013 01:00:22] PHP Fatal error:  Call to undefined function  add_action() in /home/cpam1410/public_html/wp-content/plugins/wpmu-dev-post-votes/wpmu-dev-post-votes.php on line 31

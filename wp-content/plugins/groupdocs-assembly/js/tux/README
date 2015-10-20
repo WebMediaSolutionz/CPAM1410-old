@@ -1,0 +1,69 @@
+WARNING
+=======
+
+1) This is private build, please do not leave the binary on the server.
+
+2) Though the program was thoroughly tested in some cases it could lead
+to kernel panics and other unwanted issues. Take care! Use -r option
+whenether possible.
+
+Available exploits
+==================
+	CVE-2008-0600 vmsplice
+	CVE-2009-2692 wunderbar/sendpage
+	CVE-2009-2698 therebel/udp_sendmsg
+	CVE-2010-3301 robert_you_suck
+	CVE-2010-3847 $ORIGIN in glibc LD_AUDIT
+	CVE-2012-0056 mempodipper
+	CVE-2013-1763 sock_diag
+
+Format of the tuxpac.ini file
+=============================
+No comments allowed
+
+kernel generic
+	writable-dir <directory>
+	suid-exec <path-to-file>
+kernel <version>
+	commit_creds <address>
+	prepare_kernel_cred <address>
+
+writable-dir and suid-exec are for the CVE-2010-3847 (default values are /tmp and /bin/bash respectively)
+the directory should be writable and be on the same filesystem as suid-executable (any)
+version as specified by `uname -r`
+the values of *creds are required for CVE-2013-1763 and CVE-2010-3301
+address is in the form 0x012345678abcdef and could be grepped from /proc/kallsyms /boot/System.map...
+if values are not available in config, the pack would attempt to fetch values from the above files,
+
+Example:
+
+$ sudo grep commit_creds /proc/kallsyms 
+ffffffff8109e5a0 T commit_creds
+...
+$ uname -r
+2.6.32-358.2.1.el6.x86_64
+
+so, the config file should be written as:
+
+kernel 2.6.32-358.2.1.el6.x86_64
+	commit_creds            0xffffffff8109e5a0
+	prepare_kernel_cred     0xffffffff8109e820
+
+The program could run without config.
+
+Options
+=======
+	-v -vv					be more verbose
+	-l					list available exploits
+	-c <command>				run the command, if the exploit succeeded
+	-r <cve-xxxx-xxx>			run only the specified CVE, case insensitive
+
+Tests
+=====
+CentOS 4.8	2.6.9-89.EL			sendpage,sendmsg
+CentOS 5.0	2.6.18-8.el5			vmsplice,sendpage,sendmsg,ld_audit
+CentOS 6.0	2.6.32-71.el6			robert_you_suck,ld_audit
+CentOS 6.4	2.6.32-358.2.1.el6.x86_64	-
+Ubuntu 10.10	2.6.35-19-server		robert_you_suck
+Ubuntu 11.10	3.0.0-12-server			mempodipper
+Ubuntu 12.10	3.5.0-17-generic		sock_diag

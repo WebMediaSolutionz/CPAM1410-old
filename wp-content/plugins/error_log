@@ -1,0 +1,15 @@
+[16-Oct-2013 11:04:29] PHP Fatal error:  Call to undefined function  add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[17-Apr-2014 19:46:35] PHP Fatal error:  Call to undefined function  add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[26-May-2015 18:01:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[28-May-2015 16:41:51 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[22-Jun-2015 17:27:19 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[25-Jun-2015 09:31:06 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[29-Jun-2015 08:19:08 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[13-Aug-2015 08:06:43 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[18-Aug-2015 23:28:09 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[29-Aug-2015 13:58:30 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[02-Sep-2015 14:40:53 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[07-Sep-2015 14:02:29 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[21-Sep-2015 05:30:02 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[14-Oct-2015 16:39:43 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60
+[16-Oct-2015 03:49:12 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/cpam1410/public_html/wp-content/plugins/hello.php on line 60

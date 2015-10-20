@@ -1,0 +1,4 @@
+[17-Dec-2014 03:22:08 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/cpam1410/public_html/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[17-Dec-2014 03:22:59 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/cpam1410/public_html/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[03-Mar-2015 12:23:50 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/cpam1410/public_html/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[14-Mar-2015 03:02:15 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/cpam1410/public_html/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
